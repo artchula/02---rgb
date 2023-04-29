@@ -1,5 +1,5 @@
 {
-    "name": "02 - RGB",
+    "name": "Microbit_RGB",
     "description": "",
     "dependencies": {
         "core": "*",
